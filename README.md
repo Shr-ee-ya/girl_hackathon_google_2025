@@ -15,13 +15,13 @@ Features
 ✅ AI-driven invoice processing with anomaly detection
 ✅ REST API integration for seamless enterprise adoption
 
-Tech Stack
+Tech Stack:
+
 -Programming Language: Python
 
 -Machine Learning: TensorFlow, OpenCV, Scikit-learn, spaCy
-
 -NLP for Chatbot: Dialogflow, Rasa, GPT-based models
-Document Processing: Google Document AI, Tesseract OCR
-Backend: Flask / FastAPI
+-Document Processing: Google Document AI, Tesseract OCR
+-Backend: Flask / FastAPI
 Database: PostgreSQL / MongoDB
 Deployment: Docker, Kubernetes, AWS Lambda
